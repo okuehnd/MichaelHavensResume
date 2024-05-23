@@ -1,0 +1,27 @@
+h1{
+    background-color:maroon;
+    text-align:center;
+    color: white;
+}
+h2{
+    text-align:center;
+    color: black;
+}
+h3{
+    font-weight:normal;
+    
+}
+p{
+    padding-top:0;
+    padding-bottom:0;
+}
+#profile-pic{
+    height:300px;
+    width:300px;
+    display:block;
+    margin:auto;
+
+}
+.contact{
+    text-align:center;
+}
